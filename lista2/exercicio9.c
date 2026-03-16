@@ -19,4 +19,6 @@ int main(){
 	
 	printf("\nElementos fora da diagonal principal da matriz: [%d] [%d] [%d] [%d] [%d] [%d]", lista[0][1], lista[0][2], lista[1][0], lista[1][2], lista[2][0], lista[2][1]);
 	printf("\nElementos fora da diagonal principal da matriz: [%d] [%d] [%d] [%d] [%d] [%d]", lista[0][0], lista[0][1], lista[1][0], lista[1][2], lista[2][1], lista[2][2]);
+
+	return 0;
 }
